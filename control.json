@@ -4,7 +4,7 @@
   "keys": [
     {
       "key": "kala-P4X7-5N1J-ABYF-NRLR",
-      "username": "UNIK OP",
+      "username": "kala",
       "type": "premium",
       "access_type": "multi",
       "expiry_type": "days",
@@ -14,7 +14,7 @@
     },
     {
       "key": "UNIK-8HRB-KWAS-P1G2-TJP3",
-      "username": "UNIK OP",
+      "username": "kala",
       "type": "premium",
       "access_type": "single",
       "expiry_type": "days",
@@ -24,7 +24,7 @@
     },
     {
       "key": "UNIK-TGRZ-2825-SSMT-5MVH",
-      "username": "UNIK OP",
+      "username": "kala",
       "type": "premium",
       "access_type": "single",
       "expiry_type": "days",
@@ -36,7 +36,7 @@
   "announcements": [
     {
       "id": "ann_1775079836428",
-      "title": "UNIK OP",
+      "title": "kala",
       "message": "Key update kr diya",
       "type": "update",
       "priority": "high",
