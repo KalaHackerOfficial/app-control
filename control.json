@@ -1,4 +1,27 @@
 {
-    "enabled": true,
-    "message": "🔥 WELCOME TO KALA TOOL FULL SAVE MAIN ACCOUNT 🔥"
+  "enabled": true,
+  "message": "BSDK FEEDBACK DE DIYA KARO ",
+  "keys": [
+    {
+      "key": "UNIK-P4X7-5N1J-ABYF-NRLR",
+      "username": "UNIK OP",
+      "type": "premium",
+      "access_type": "multi",
+      "expiry_type": "days",
+      "expiry_timestamp": 1808773009046,
+      "expiry_display": "2027-04-27 02:26",
+      "devices": []
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_1775079836428",
+      "title": "UNIK OP",
+      "message": "Key update kr diya",
+      "type": "update",
+      "priority": "high",
+      "timestamp": 1775079836428,
+      "show_once": false
+    }
+  ]
 }
