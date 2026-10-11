@@ -1,47 +1,53 @@
+
 {
-  "enabled": true,
-  "message": "WELCOME TO KALA TOOL - Premium Active",
-  "keys": [
-    {
-      "key": "kala-P4X7-5N1J-ABYF-NRLR",
-      "username": "kala",
-      "type": "premium",
-      "access_type": "multi",
-      "expiry_type": "days",
-      "expiry_timestamp": 1808773009046,
-      "expiry_display": "2027-04-27 02:26",
-      "devices": []
-    },
-    {
-      "key": "UNIK-8HRB-KWAS-P1G2-TJP3",
-      "username": "kala",
-      "type": "premium",
-      "access_type": "single",
-      "expiry_type": "days",
-      "expiry_timestamp": 1775230095163,
-      "expiry_display": "2026-04-03 20:58",
-      "devices": []
-    },
-    {
-      "key": "UNIK-TGRZ-2825-SSMT-5MVH",
-      "username": "kala",
-      "type": "premium",
-      "access_type": "single",
-      "expiry_type": "days",
-      "expiry_timestamp": 1775230111130,
-      "expiry_display": "2026-04-03 20:58",
-      "devices": []
-    }
-  ],
-  "announcements": [
-    {
-      "id": "ann_1775079836428",
-      "title": "kala",
-      "message": "Key update kr diya",
-      "type": "update",
-      "priority": "high",
-      "timestamp": 1775079836428,
-      "show_once": false
-    }
-  ]
+  "app_name": "Kala Reels",
+  "app_version": "1.0.0",
+  "latest_version": "1.0.0",
+  "minimum_version": "1.0.0",
+
+  "app_status": "online",
+  "maintenance_mode": false,
+  "maintenance_message": "App maintenance mein hai. Kripya baad mein try karein.",
+
+  "user_app": {
+    "enabled": true,
+    "login_enabled": true,
+    "registration_enabled": true,
+    "reels_enabled": true,
+    "upload_enabled": true,
+    "like_enabled": true,
+    "comment_enabled": true,
+    "share_enabled": true,
+    "follow_enabled": true,
+    "download_enabled": false
+  },
+
+  "admin_app": {
+    "enabled": true,
+    "admin_login_required": true,
+    "user_management_enabled": true,
+    "block_user_enabled": true,
+    "unblock_user_enabled": true,
+    "delete_reels_enabled": true,
+    "delete_comments_enabled": true,
+    "announcement_enabled": true
+  },
+
+  "security": {
+    "force_update": false,
+    "allow_guest_login": false,
+    "require_verified_account": false
+  },
+
+  "announcement": {
+    "enabled": false,
+    "title": "Important Notice",
+    "message": "Welcome to Kala Reels!",
+    "button_text": "OK"
+  },
+
+  "support": {
+    "email": "support@example.com",
+    "website": ""
+  }
 }
